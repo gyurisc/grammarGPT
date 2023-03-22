@@ -1,2 +1,5 @@
 # grammarGPT
-A simple grammarly clone using GPT 
+
+[GrammarGPT](www.grammar-gpt.com)
+
+A grammarly clone using GPT to figure 
